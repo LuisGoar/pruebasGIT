@@ -1,4 +1,4 @@
-RAMA SAMPLE2.1
+UNIÓN RAMA SAMPLE2.1 Y RAMA MASTER
 
 Utilitatis causa amicitia est quaesita.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
